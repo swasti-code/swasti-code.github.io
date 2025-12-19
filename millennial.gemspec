@@ -1,10 +1,10 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = "millennial"
+  spec.name          = "swasti's home"
   spec.version       = "2.0.0"
   spec.authors       = ["Paul Le"]
-  spec.email         = ["hello@paulle.ca"]
+  spec.email         = ["swastijainsogani@gmail.com"]
 
   spec.summary       = "A minimalist Jekyll theme for running a blog or publication powered by Jekyll and GitHub Pages"
   spec.homepage      = "https://github.com/LeNPaul/Millennial"
